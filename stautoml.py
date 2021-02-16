@@ -1,19 +1,8 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 13 20:53:10 2021
 
 PycaretとStreamlitで作るGUI AutoML
-
-pycaretst/internal/preprocess.py
-class DataTypes_Auto_infer
-def fit
-pycaret/internal/tabular.py
-def setup
-def compare_models
-
-
-@author: ry8128
 """
 
 # streamlit run filename
